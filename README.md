@@ -1,2 +1,2 @@
 # XXXNet2
-update
+predict depth and pose from image using neural network
